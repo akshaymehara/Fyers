@@ -1,1 +1,2 @@
 # Fyers
+This is collection of strategies built on python using Fyers api for any trader to use these files, first generate your api key from fyers api portal. After getting all credentials, put all into document_file and save it. Before running any strategy, make sure that document_file is in the same folder where strategy file is. For the whole playlist: https://www.youtube.com/playlist?list=PL6hRoAkIUUJyCi59wDm0Sbi0Qrwr5CUql
