@@ -3,7 +3,7 @@ import os
 log_path = os.getcwd()
 client_id = ''
 secret_key = ''
-redirect_url = 'https://www.google.com'
+redirect_url = ''
 username = ''
 password = ''
 pin1 = ''
